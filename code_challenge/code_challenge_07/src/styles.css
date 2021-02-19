@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+}
+button {
+  width: 100px;
+  height: 40px;
+  background-color: #363439;
+  color: white;
+  border-radius: 10px;
+  margin: 0 auto;
+  transition: ease-in;
+}
+button:hover {
+  opacity: 0.5;
+}
+.orange {
+  background-color: #fe8e00;
+}
+.grey {
+  background-color: #a7aab1;
+}
+.colSpan2 {
+  width: 205px;
+}
+.output {
+  box-sizing: border-box;
+  padding-right: 5px;
+  text-align: right;
+  color: white;
+}
